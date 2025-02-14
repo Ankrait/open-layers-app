@@ -1,0 +1,3 @@
+export const DUSHANBE_POS = [68.78641859093202, 38.57622131370403];
+export const INITIAL_ZOOM = 15;
+export const PROJECTION = 'EPSG:4326';
